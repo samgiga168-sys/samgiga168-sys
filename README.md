@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samgiga168-sys" alt="samgiga168-sys" /></a> </p>
 
-- 🔭 I’m currently working on **React Native**
+- 🔭 I’m currently working on **React Native, Next JS, React JS, Rust Actix, Rust Blockchain, Rust Actix & AI sistem databases to fastest Framework.**
 
 - 🌱 I’m currently learning **LLVM Framework**
 
