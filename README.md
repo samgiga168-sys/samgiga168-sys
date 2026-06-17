@@ -43,7 +43,7 @@
 
 <a href="https://crates.io/crates/wtransport" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BiagioFesta/wtransport/master/imgs/logo.svg" alt="Webtransport" width="2000" height="548"/> </a>
 
-<a href="https://drogon.org/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/131236938/be693c00-693d-11e9-9d03-90c0d5344650" alt="Drogon C++" width="2000" height="700"/> </a>
+<a href="https://drogon.org/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/131236938/be693c00-693d-11e9-9d03-90c0d5344650" alt="Drogon C++" width="2000" height="900"/> </a>
 
 </p>
 
