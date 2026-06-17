@@ -37,6 +37,8 @@
 
 <a href="https://www.modular.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRorUnZXY27Z_shaMKLXyzGqzTdCEkQ0QoZXQ&s" alt="mojo" width="40" height="40"/> </a>
 
+<a href="https://mojolang.org/" target="_blank" rel="noreferrer"> <img src="https://mojolang.org/img/mojo-wordmark.svg" alt="mojo" width="2000" height="548"/> </a>
+
 <a href="https://blog.cloudflare.com/pingora-open-source/" target="_blank" rel="noreferrer"> <img src="https://cf-assets.www.cloudflare.com/zkvhlag99gkb/7aQBSJRQlM3b1ZRdvJycqY/72f9bd908abc139faba41716074d69d5/Rock-crab-pingora-open-source-mascot.png" alt="pingora" width="2000" height="548"/> </a>
 
 </p>
