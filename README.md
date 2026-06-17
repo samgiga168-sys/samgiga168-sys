@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sandi Adam</h1>
-<h3 align="center">Hello everyone I am programming Rust, Mojo, Yolo, Javascript, TypeScript and Python with relationship databases and machine learning with Python, MySQL, Oracle SQL, and Elasticsearch.</h3>
+<h3 align="center">I am a passionate software engineer specializing in high-performance backends, machine learning, and advanced database architectures.</h3>
+
+<h3 align="center">Saya adalah seorang insinyur perangkat lunak yang bersemangat dan berspesialisasi dalam backend berkinerja tinggi, pembelajaran mesin, dan arsitektur basis data tingkat lanjut.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samgiga168-sys&label=Profile%20views&color=0e75b6&style=flat" alt="samgiga168-sys" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samgiga168-sys" alt="samgiga168-sys" /></a> </p>
 
-- 🔭 I’m currently working on **React Native, Next JS, React JS, Rust Actix, Rust Blockchain, Rust Actix & AI sistem databases to fastest Framework.**
+- 🔭 I’m currently working on **React Native, Next.js, Rust (Actix & Blockchain), and designing ultra-fast AI database systems.**
 
-- 🌱 I’m currently learning **LLVM Framework**
+- 🌱 I’m currently learning **LLVM Compiler Infrastructure & Framework languages**
 
-- 👯 I’m looking to collaborate on **Rust Blockchain Transaction**
+- 👯 I’m looking to collaborate on **Rust-based blockchain transaction systems**
 
 - 🤝 I’m looking for help with [10 Project simple with multiple database and language programming LLVM.](https://www.sandiadam.site/)
 
@@ -17,13 +19,15 @@
 
 - 📝 I regularly write articles on [https://www.sandiadam.site/services](https://www.sandiadam.site/services)
 
-- 💬 Ask me about **React, Next.JS, Python, Go, Rust, Mojo, Julia, Typescript, PHP, AdminLTE, Tanstack, Databases AI, Databases Conventional, Databases High Speed performance, and other.**
-
-- 📫 How to reach me **sandiadam0647@gmail.com**
-
-- 📄 Know about my experiences [https://www.sandiadam.site/work](https://www.sandiadam.site/work)
-
-- ⚡ Fun fact **I think being happy with the LLVM language is the best choice for the application.**
+- 💬 **Ask me about:** - **Frontend:** React, React Native, Electron, Next.js, TypeScript, AdminLTE, TanStack, Bootstrap.
+  - **Backend & Systems:** Rust, Python, Go, PHP, Julia, Mojo.
+  - **Databases:** Relational (MySQL, Oracle), High-Performance NoSQL (Cassandra, ScyllaDB), AI Databases, and Elasticsearch.
+  - **AI/ML:** Machine Learning with Python, Mojo, YOLO object detection.
+- 📫 **How to reach me:** [sandiadam0647@gmail.com](mailto:sandiadam0647@gmail.com)
+- 👨‍💻 **Portfolio:** [sandiadam.site](https://www.sandiadam.site/)
+- 📝 **Articles:** [sandiadam.site/services](https://www.sandiadam.site/services)
+- 📄 **Experience:** [sandiadam.site/work](https://www.sandiadam.site/work)
+- ⚡ **Fun fact:** I believe deep-diving into LLVM is the ultimate cheat code for building blazing-fast applications!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
